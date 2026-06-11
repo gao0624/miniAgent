@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mini-agent
+Version: 0.1.0
+Summary: MiniAgent - 轻量级智能体框架
+Requires-Python: >=3.10
+Requires-Dist: openai>=1.0.0
+Requires-Dist: python-dotenv>=1.0.0
